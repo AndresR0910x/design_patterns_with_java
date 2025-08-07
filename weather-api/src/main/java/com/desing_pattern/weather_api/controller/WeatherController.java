@@ -1,5 +1,5 @@
 package com.desing_pattern.weather_api.controller;
-
+//Observer pattern added
 import com.weatherstation.api.Subject;
 import com.weatherstation.model.WeatherData;
 import org.springframework.beans.factory.annotation.Autowired;
